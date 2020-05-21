@@ -1,0 +1,12 @@
+{
+  "name": "meetingmanagerdiscord",
+  "version": "1.0.0",
+  "description": "test discord bot",
+  "main": "bot.js",
+  "author": "pmccau@seas.upenn.edu",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.2.0",
+    "winston": "^3.2.1"
+  }
+}
